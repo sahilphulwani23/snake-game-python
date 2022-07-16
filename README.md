@@ -1,3 +1,6 @@
+-- Keyboard arrows are used to move the snake towards the food (Triangular in shape).
+-- Once the snake touches the wall or boundary of the screen, game ends.
+
 Output of the Code :
 
 
